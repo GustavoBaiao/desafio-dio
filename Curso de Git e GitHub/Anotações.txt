@@ -1,0 +1,2 @@
+Nesse curso aprendi sobre Git e GitHub.
+Como comandos e como eles funcionam.
