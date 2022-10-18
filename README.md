@@ -1,2 +1,3 @@
-# Repósitorio do desafio da Gio/TQI
+# Repósitorio do desafio Ifood
+
 Desafio de projeto sobre git - realizando primeiros comandos com git. 
